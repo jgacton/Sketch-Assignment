@@ -1,0 +1,7 @@
+*
+!*.c
+!*.pdf
+!Makefile
+!*.sk
+!*.pgm
+!.gitignore
