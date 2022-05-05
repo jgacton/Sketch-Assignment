@@ -5,3 +5,4 @@
 !*.sk
 !*.pgm
 !.gitignore
+!*.h
